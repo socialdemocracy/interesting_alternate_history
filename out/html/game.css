@@ -270,6 +270,7 @@ blockquote + blockquote.attribution {
   margin-top: -0.6em;
   margin-left: -0.6em;
   margin-right: -0.6em;
+  border-radius: 10px;
 }
 .tab_button {
   background-color: #d1e1f0;
