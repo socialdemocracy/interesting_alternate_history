@@ -183,7 +183,27 @@ blockquote + blockquote.attribution {
   position: relative;
 }
 #tools_wrapper {
+  background-color: #d1e1f0;
+  background-image: linear-gradient(
+    rgba(0, 0, 0, 0) 50%, 
+    rgba(0, 0, 0, 0.1) 50%
+  );
+  background-size: 3px 3px; 
+  border: 1px solid #7595b5;
+  box-shadow: 
+    inset 0 0 30px rgba(65, 63, 63, 0.45), 
+    0 0 0 2px #cecdd5, 
+    0 0 0 8px #747f8d, 
+    0 0 0 10px #3b4657, 
+    5px 8px 16px rgba(0, 0, 0, 0.4); 
   position: absolute;
+  border-radius: 15px;
+  font-size: 1.1em;
+  padding: 1em 1.5em 1.5em 1.5em;
+  /*box-shadow: 2px 2px 12px rgba(23, 40, 28, 0.2);*/
+  color: #1a2530;
+  text-shadow: none;
+  border-radius: 10px;
   width: 100%;
   max-width: 69em;
   left: 0;
@@ -191,11 +211,28 @@ blockquote + blockquote.attribution {
   margin: 0 auto;
 }
 .tools {
+    background-color: #d1e1f0;
+  background-image: linear-gradient(
+    rgba(0, 0, 0, 0) 50%, 
+    rgba(0, 0, 0, 0.1) 50%
+  );
+  background-size: 3px 3px; 
+  border: 1px solid #7595b5;
+  box-shadow: 
+    inset 0 0 30px rgba(65, 63, 63, 0.45), 
+    0 0 0 2px #cecdd5, 
+    0 0 0 8px #747f8d, 
+    0 0 0 10px #3b4657, 
+    5px 8px 16px rgba(0, 0, 0, 0.4); 
+  position: relative;
+  border-radius: 15px;
+  font-size: 1.1em;
+  padding: 0.6em;
+  color: #1a2530;
+  text-shadow: none;
+  border-radius: 10px;
   padding: 0.6em;
   width: 14rem;
-  color: #431;
-  background-color: #f3f3f3;
-  box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2);
 }
 .tools.left {
   float: left;
