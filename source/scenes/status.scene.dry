@@ -14,20 +14,26 @@ if (Q.inflation) {
 
 [+ month : month +], [+ year +]
 
-Chancellor: [+ chancellor +]
+Chancellor: [+ chancellor +] ([+ chancellor_party +])
 
 #, [+ consul_2 +]
 
 Senate:
-
-Core faction: [+ core_r +]%
-Rim faction: [+ rim_r +]%
+<br>
+Core Faction: [+ core_r +]%
+<br>
+Separatists: [+ separatist_r +]%
+<br>
+Rim Faction: [+ rim_r +]%
+<br>
 Pacifists: [+ pacifist_r +]%
+<br>
 Militarists: [+ militarist_r +]%
+<br>
 Loyalists: [+ loyalist_r +]%
-Currently unaligned: [+ unaligned_r +]%
+<br>
+Currently Unaligned: [+ unaligned_r +]%
 
-Budget: [+ budget +]
 
 
 @politics
