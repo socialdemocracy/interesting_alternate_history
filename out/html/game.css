@@ -5,7 +5,7 @@ body {
   padding: 0;
   line-height: 155%;
   overflow-y: scroll;
-  background-image: url('img/map.jpg');
+  background-image: url('img/galaxy_map.webp');
   background-repeat: repeat-y;
   background-attachment: local;
   background-size: cover;
