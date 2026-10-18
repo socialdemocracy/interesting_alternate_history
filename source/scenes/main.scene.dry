@@ -20,7 +20,7 @@ max-cards: 4
 
 @senate_affairs
 title: Senate Affairs
-card-image: img/Senate_seal.svg
+card-image: img/galactic_senate.jpeg
 is-deck: true
 
 - #senate_affairs
@@ -28,7 +28,7 @@ is-deck: true
 
 @galactic_affairs
 title: Galactic Policy
-card-image: img/Republic_Emblem.svg
+card-image: img/coruscant.webp
 is-deck: true
 
 - #galactic_affairs
