@@ -1,7 +1,7 @@
 title: Next month
 is-hand: true
 max-cards: 3
-#set-bg: img/map.jpg
+#set-bg: img/galaxy_map.webp
 
 - @senate_affairs
 - @galactic_affairs
@@ -11,7 +11,7 @@ max-cards: 3
 @main_easy
 is-hand: true
 max-cards: 4
-#set-bg: img/map.jpg
+#set-bg: img/galaxy_map.webp
 
 - @senate_affairs
 - @galactic_affairs
